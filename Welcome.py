@@ -1,7 +1,3 @@
-get_inputs()
-
-
-=======
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -44,3 +40,5 @@ def get_inputs():
     
 
 get_inputs()
+
+

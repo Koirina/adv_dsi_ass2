@@ -134,6 +134,7 @@ Jinja2 @ file:///C:/ci_311/jinja2_1676424968965/work
 jinja2-time @ file:///opt/conda/conda-bld/jinja2-time_1649251842261/work
 jmespath @ file:///Users/ktietz/demo/mc3/conda-bld/jmespath_1630583964805/work
 joblib @ file:///C:/b/abs_1anqjntpan/croot/joblib_1685113317150/work
+joblib==0.17.0
 json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
 jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
 jsonpointer==2.1

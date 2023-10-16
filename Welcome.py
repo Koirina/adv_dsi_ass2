@@ -10,6 +10,7 @@ def reset_inputs():
 
 # Function to make predictions
 def predict_cluster(user_data):
+    # Provide the correct path to the 'gmm_pipeline.joblib' file
     reconstructed_model = joblib.load('model/gmm_pipeline.joblib')
     pred = reconstructed_model.predict(user_data)
     return pred
